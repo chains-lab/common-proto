@@ -135,7 +135,7 @@ const file_pagination_proto_rawDesc = "" +
 	"\x05limit\x18\x02 \x01(\x04R\x05limit\">\n" +
 	"\x12PaginationResponse\x12\x14\n" +
 	"\x05total\x18\x01 \x01(\x04R\x05total\x12\x12\n" +
-	"\x04page\x18\x02 \x01(\x04R\x04pageB=Z;github.com/chains-lab/cities-dir-proto/gen/go/common;commonb\x06proto3"
+	"\x04page\x18\x02 \x01(\x04R\x04pageB9Z7github.com/chains-lab/common-proto/gen/go/common;commonb\x06proto3"
 
 var (
 	file_pagination_proto_rawDescOnce sync.Once

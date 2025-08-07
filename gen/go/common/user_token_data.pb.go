@@ -99,7 +99,7 @@ const file_user_token_data_proto_rawDesc = "" +
 	"\n" +
 	"session_id\x18\x02 \x01(\tR\tsessionId\x12\x12\n" +
 	"\x04role\x18\x03 \x01(\tR\x04role\x12\x1a\n" +
-	"\bverified\x18\x04 \x01(\bR\bverifiedB=Z;github.com/chains-lab/cities-dir-proto/gen/go/common;commonb\x06proto3"
+	"\bverified\x18\x04 \x01(\bR\bverifiedB9Z7github.com/chains-lab/common-proto/gen/go/common;commonb\x06proto3"
 
 var (
 	file_user_token_data_proto_rawDescOnce sync.Once
