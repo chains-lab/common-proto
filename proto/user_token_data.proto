@@ -1,0 +1,11 @@
+syntax = "proto3";
+package common;
+
+option go_package = "github.com/chains-lab/cities-dir-proto/gen/go/common;common";
+
+message UserTokenData {
+  string user_id = 1;
+  string session_id = 2;
+  string role = 3;
+  bool   verified = 4;
+}
